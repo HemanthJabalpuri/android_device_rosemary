@@ -1,3 +1,3 @@
 # android_device_rosemary
 
-Fucking Device Tree
+Concept of TWRP running on Rosemary
